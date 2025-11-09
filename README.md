@@ -50,5 +50,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run frontend/app.py
 
+OUTPUT LINK :
+http://localhost:8501/
 
 
